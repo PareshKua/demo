@@ -1,2 +1,2 @@
 # demo
-this is my fist repository for learning
+this is my fist repository for learning.
